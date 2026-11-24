@@ -1,0 +1,4 @@
+Daily Trasaction Report
+------------------------
+Total Transaction: 100
+Total Amount: $5000

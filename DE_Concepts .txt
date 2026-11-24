@@ -1,0 +1,37 @@
+Day	Topics to learn	Practical assignment
+1	Python data types, lists, tuples, sets, dictionaries, loops	Build a transaction data processor  --- done
+2	Functions, OOP, modules, exceptions	Build reusable Python functions  							--- done
+3	File handling, CSV, JSON, XML, APIs, requests	Extract data from a public API  				--- done
+4	Pandas, NumPy, missing values, duplicates, data cleaning	Clean 100,000 transaction records
+5	SQL joins, CTEs, subqueries, window functions	Solve 25 advanced SQL problems
+6	Indexes, query plans, transactions, ACID	Optimize slow SQL queries
+7	Data modelling, normalization, star schema, SCD	Design a payment database
+
+Day	Topics to learn	Practical assignment
+8	Big Data concepts, distributed computing, Hadoop ecosystem	Design a distributed data processing architecture
+9	Spark architecture, driver, executors, cluster manager	Run your first Spark application
+10	PySpark DataFrames, schemas, transformations, actions	Process transaction datasets
+11	Spark joins, aggregations, window functions	Calculate transaction success rates
+12	Partitions, shuffles, caching, broadcast joins	Optimize a Spark job
+13	Parquet, partitioned data, Delta Lake	Store cleaned data in Parquet/Delta format
+14	Data lake, warehouse, lakehouse, medallion architecture	Create Bronze, Silver and Gold layers
+
+Day	Topics to learn	Practical assignment
+15	Airflow architecture, DAGs, operators, tasks	Create your first DAG
+16	Scheduling, dependencies, retries, backfills	Build a failure-recovery workflow
+17	Kafka, topics, brokers, producers, consumers	Create a transaction producer and consumer
+18	Consumer groups, offsets, delivery semantics, streaming	Process incoming payment events
+19	AWS IAM, S3, Glue, Glue Data Catalog	Create a cloud data lake
+20	Athena, Redshift, Lambda, CloudWatch	Query and monitor cloud data
+21	Docker, Git, GitHub Actions, CI/CD	Containerize and automate pipeline deployment
+
+Day	Topics to learn	Practical assignment
+22	Incremental loads, CDC, SCD Type 1/2/3	Implement incremental transaction loading
+23	Data quality, schema validation, testing	Create automated validation checks
+24	Idempotency, fault tolerance, retries, recovery	Simulate failed pipeline and recovery
+25	Security, IAM, encryption, governance, lineage	Secure your pipeline
+26	Monitoring, observability, cost optimization	Add logging and monitoring
+27	Data architecture and system design	Design a high-volume payment platform
+28	Integrate Python, SQL, Spark, S3 and Airflow	Complete your end-to-end pipeline
+29	Senior-level system design and scenario interviews	Conduct a technical mock interview
+30	Project documentation, GitHub, resume and applications	Publish portfolio and prepare applications
