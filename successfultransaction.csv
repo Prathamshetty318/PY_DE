@@ -1,0 +1,3 @@
+tran_id,amount,status,mode
+TXN001,1500,SUCCESS,UPI
+TXN004,25000,SUCCESS,CARD

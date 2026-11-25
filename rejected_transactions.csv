@@ -1,0 +1,3 @@
+﻿tran_id,amount,status,mode,rejection_reason
+    ,45,ss,Upi,missing transaction
+TXN005,hjsh,FAILED,UPI,amount should be in integer
